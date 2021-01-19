@@ -10,6 +10,13 @@ In this project I implemented a to do list. All data is stored in local storage.
 [Live demo](https://sojarv.github.io/todo-list/) 
 
 
+### Weather app
+Async functions retrieve weather data from around the world, based on API from https://openweathermap.org/. 
+
+[Repository](https://github.com/sojarv/weather-app) \
+[Live demo](https://sojarv.github.io/weather-app/) 
+
+
 ### Marketplace
 Project represent a simple singlepage website. Each view is stored in a seperate JS file, which is then imported in a main file.   
 
