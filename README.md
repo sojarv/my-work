@@ -1,6 +1,6 @@
 # My work 
 
-In this repository you can see my work done in spare time and aim to make myself a better programmer. Under each link there is a small description of the project.
+In this repository you can see my projects done as part of my learning process to become Frontend developer. Under each link there is a small description of the project.
 
 
 ## ReactJS
