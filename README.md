@@ -1,7 +1,26 @@
 # My work 
 
 In this repository you can see my work done in spare time and aim to make myself a better programmer. Under each link there is a small description of the project.
-Projects are done with Javascript, HTML and CSS. 
+
+
+## ReactJS
+
+### Create your CV
+I made the same project with two different apporaches. In the first one in used class components and the other one was made with React Hooks. In both I use state to store and retrieve values of input. 
+The project is a CV creation, where you can change such as name, contact information and also add/remove skills, previous experience and education. 
+
+Class components: 
+
+[Repository](https://github.com/sojarv/cv-project) \
+[Live demo](https://sojarv.github.io/cv-project/) 
+
+Function components with Hooks:
+
+[Repository](https://github.com/sojarv/cv-project-hooks) \
+[Live demo](https://sojarv.github.io/cv-project-hooks/) 
+
+## HTML, CSS and JS  
+Projects in this section are made with HTML, CSS and Javascript.
 
 ### To-do list
 In this project I implemented a to do list. All data is stored in local storage. You can add and remove projects and also errands on each project. Each errand has their own priority which is show as a color around the date. 
