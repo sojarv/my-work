@@ -12,6 +12,13 @@ Projcet was made with React Hooks and SCSS.
 [Repository](https://github.com/sojarv/marvel-memory/) \
 [Live demo](https://sojarv.github.io/marvel-memory/) 
 
+### Shopping cart 
+Simple shopping cart implementation, where you can add and remove items from your shpping cart. The main problem was sharing state between components.
+Projcet was made with React Hooks and SCSS.
+
+[Repository](https://github.com/sojarv/shopping-cart) \
+[Live demo](https://sojarv.github.io/shopping-cart/) 
+
 ### Create your CV
 I made the same project with two different apporaches. In the first one in used class components and the other one was made with React Hooks. In both I use state to store and retrieve values of input. 
 The project is a CV creation, where you can change such as name, contact information and also add/remove skills, previous experience and education. 
