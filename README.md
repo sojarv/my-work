@@ -50,13 +50,6 @@ Async functions retrieve weather data from around the world, based on API from h
 [Live demo](https://sojarv.github.io/weather-app/) 
 
 
-### Marketplace
-Project represent a simple singlepage website. Each view is stored in a seperate JS file, which is then imported in a main file.   
-
-[Repository](https://github.com/sojarv/restaurant) \
-[Live demo](https://sojarv.github.io/restaurant/) 
-
-
 ### Etch a sketch
 Based on an user input make a grid of squares, which are then colored if you hover above them with the mouse. 
 
