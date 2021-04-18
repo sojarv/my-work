@@ -7,10 +7,17 @@ In this repository you can see my projects done as part of my learning process t
 
 ### Marvel memory 
 Project is a simple memory game, where you have to select all heroes just once. You lose if you select alredy choosen one. 
-Projcet was made with React Hooks and SCSS.
+Project was made with React Hooks and SCSS.
 
 [Repository](https://github.com/sojarv/marvel-memory/) \
 [Live demo](https://sojarv.github.io/marvel-memory/) 
+
+### Calendar 
+Simple implementation of a calendar, which changes based on your input of month and year. It has some predefined birthdays and holidays. 
+Project was made with React Hooks and SCSS. 
+
+[Repository](https://github.com/sojarv/react-calendar/) \
+[Live demo](https://sojarv.github.io/react-calendar/) 
 
 ### Shopping cart 
 Simple shopping cart implementation, where you can add and remove items from your shpping cart. The main problem was sharing state between components.
